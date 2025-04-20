@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Soy una desarrolladora de software con 33 años. Estudié Desarrollo de Aplicaciones Multiplataforma (DAM) en IFP y tengo 2 años de experiencia profesional en el campo. 
+Soy una desarrolladora de software con 34 años. Estudié Desarrollo de Aplicaciones Multiplataforma (DAM) en IFP y tengo 2 años de experiencia profesional en el campo. 
 
 Actualmente, trabajo como Junior Engineer de Backend, donde me especializo en Java, Spring, SQL, RedHat y Docker.
 
